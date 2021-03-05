@@ -1,20 +1,17 @@
-[
-    {
-        "username": "手机号（必填）",
-        "password": "服务密码（必填）",
-        "appId": "appId（必填）",
-        "email": "邮箱（选填，不填请删除此行）",
-        "lotteryNum": "抽奖次数（选填，不填请删除此行）",
-        "dingtalkWebhook": "钉钉通知 https://oapi.dingtalk.com/robot/send?access_token=xxxx（选填，不填请删除此行）",
-        "telegramBot": {
-            "tgToken": "Tg通知 token（选填，不填请删除 telegramBot 对象）",
-            "tgUserId": "Tg通知 群组Id（选填，不填请删除 telegramBot 对象）"
-        },
-        "pushplusToken": "push+ token（选填，不填请删除此行）",
-        "enterpriseWechat": {
-            "id": "企业ID（选填，不填请删除 enterpriseWechat 对象）",
-            "agentld": "企业微信自建应用AgentId（选填，不填请删除 enterpriseWechat 对象）",
-            "secret": "企业微信自建应用Secrets（选填不填请删除 enterpriseWechat 对象）"
-        }
-    }
+[{
+		"username": "13222565671",
+		"password": "932575",
+		"appId": "d389533ac930c1dd8ae46cf5b8258f1318479127227daed6c538658712e86588039aed7aeed7cc18b59bca3862edf28092f66913c62fd4377a1ffdbac943b3fb51e9c1a1e4485ee686a3bd1e697a3d66"
+	},
+	{
+		"username": "13063985570",
+		"password": "932575",
+		"appId": "d389533ac930c1dd8ae46cf5b8258f1318479127227daed6c538658712e86588039aed7aeed7cc18b59bca3862edf28092f66913c62fd4377a1ffdbac943b3fb51e9c1a1e4485ee686a3bd1e697a3d66"
+	},
+	{
+		"username": "18501459578",
+		"password": "932575",
+		"appId": "d389533ac930c1dd8ae46cf5b8258f1318479127227daed6c538658712e86588039aed7aeed7cc18b59bca3862edf28092f66913c62fd4377a1ffdbac943b3fb51e9c1a1e4485ee686a3bd1e697a3d66",
+		"email": "631597@qq.com"
+	}
 ]
